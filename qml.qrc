@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>assets/icons/advanceOneStepButton.png</file>
+        <file>assets/icons/fastForwardButton.png</file>
+        <file>assets/icons/loadButton.png</file>
+        <file>assets/icons/optionsButton.png</file>
+        <file>assets/icons/pauseButton.png</file>
+        <file>assets/icons/playButton.png</file>
+        <file>assets/icons/saveButton.png</file>
+        <file>ButtonBar.qml</file>
+        <file>FillForm.qml</file>
+        <file>IconButton.qml</file>
+        <file>OptionsDialog.qml</file>
+        <file>ResizeForm.qml</file>
+        <file>SimulationView.qml</file>
+    </qresource>
+</RCC>
